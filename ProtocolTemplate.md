@@ -1,4 +1,4 @@
-# Wireguard
+# Protocol Name
 
 [Homepage](https://example.com)
 
