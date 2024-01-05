@@ -3,6 +3,7 @@ Notes on various VPNs, VPN management, and overlay networks
 
 # Comparisons
 *insert table with speeds and stuff here*
+
 | Name                      | Status  | Type    | Layer  | Overhead[\*](#as-measured) (b/s) | NAT Traversal | Self-hostable |
 | ------------------------- | ------- | ------- | ------ | -------------------------------- | ------------- | ------------- | 
 | [Wireguard](Wireguard.md) | Active  | VPN     | 3      | tbd                              | no            | yes           |
@@ -11,6 +12,7 @@ Notes on various VPNs, VPN management, and overlay networks
 | [Tailscale](Tailscale.md) | Active  | Overlay | 3	     | tbd                              | yes           | yes |
 | [ZeroTier](ZeroTier.md)   | Active  | Overlay | 3      | tbd                              | yes           | partial       |
 | [Netmaker](Netmaker.md)   | Active  | Manager | 3      | tbd                              | yes           | yes |
+
 
 # Contributing
 Add comparisons to the section above.
